@@ -1,0 +1,31 @@
+html, body {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background-color: #07dcf4;
+}
+
+#left {
+   width: 50%;
+   height: 100vh;
+}
+
+#right {
+   width: 50%;
+   min-height: 100vh;
+   background-color: rgb(36, 253, 3);
+}
+
+#branding {
+   width: 200px;
+   height: auto;
+}
+
+#condition {
+   width: 100px;
+   height: auto;
+}
+
+#master-history {
+   display: none;
+}
